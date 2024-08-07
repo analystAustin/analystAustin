@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1> Hello, I'm Austin!  <br/><a href="https://github.com/austindennoCS">Versatile Analyst</a>, <a href="https://github.com/austindennoCS">Computer Science</a>, <a href="https://github.com/austindennoCS">Programming</a></h1>
 
-<!--
-**analystAustin/analystAustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Experience and Project Documentation</h2>
 
-Here are some ideas to get you started:
+- <b>SCENARIO: Real Estate Business Recovery</b>
+  - [Real Estate Business Recovery ](https://github.com/austindennoCS/Home-Lab-Active-Directory)
+- <b>Market Analysis AI Equities</b>
+  - [Market Analysis AI Equities](https://github.com/austindennoCS/EducationalCybersecurityProjectUsingAzureSentinel)
+- <b>Market Analysis Cryptocurrency</b>
+  - [Market Analysis Cryptocurrency](https://github.com/austindennoCS/EthicalPythonC-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+<h2>Connect with me: </h2>  
+
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://x.com/austindennoCS
+[linkedin]: https://www.linkedin.com/in/austindennocs/
