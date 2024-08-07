@@ -3,11 +3,11 @@
 <h2>Experience and Project Documentation</h2>
 
 - <b>SCENARIO: Real Estate Business Recovery</b>
-  - [Real Estate Business Recovery ](https://github.com/austindennoCS/Home-Lab-Active-Directory)
+  - [Real Estate Business Recovery ](https://github.com/austindennoCS/real-estate-business-recovery)
 - <b>Market Analysis AI Equities</b>
-  - [Market Analysis AI Equities](https://github.com/austindennoCS/EducationalCybersecurityProjectUsingAzureSentinel)
+  - [Market Analysis AI Equities](https://github.com/austindennoCS/market-analysis-ai-equities)
 - <b>Market Analysis Cryptocurrency</b>
-  - [Market Analysis Cryptocurrency](https://github.com/austindennoCS/EthicalPythonC-)
+  - [Market Analysis Cryptocurrency](https://github.com/austindennoCS/market-analysis-cryptocurrency)
 
       
 <h2>Connect with me: </h2>  
